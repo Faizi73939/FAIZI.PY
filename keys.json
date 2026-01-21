@@ -1,6 +1,6 @@
 {
-  "approved_hwids": [
-    "FAIZI-MODS-KEY-D539D-AE841-D89EE-8CF9F",
-    "ABCD-1234-EFGH-5678"
+  "approved_keys": [
+    "CLONEFB|MR|USER_UID|FAIZI|USER_ID|708",
+    "ANOTHER_KEY_HERE"
   ]
 }
